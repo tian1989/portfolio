@@ -10,7 +10,7 @@
 * 5 year industry experience (graphic design), 2016-2018
 
 
-# [Portfolio 1: Quench labels](https://ibb.co/kmkLJCf)
+# [Portfolio 1: Quench labels](<a href="https://ibb.co/kmkLJCf"><img src="https://i.ibb.co/jJBCzX2/design-page-2.jpg" alt="design-page-2" border="0" /></a>)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
