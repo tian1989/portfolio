@@ -10,7 +10,7 @@
 * 5 year industry experience (graphic design), 2016-2018
 
 
-# [Project 1: Crypto Sentiment Analysis](https://ibb.co/kmkLJCf)
+# [Portfolio 1: Quench labels](https://ibb.co/kmkLJCf)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
