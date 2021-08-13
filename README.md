@@ -2,8 +2,13 @@
 * graphic designer | illustrator*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of graphic design (nottingham), 2010-2013  
+* National diploma of art and design (nottingham), 2007-2010  
+
+# Experience
+* freelance experience (marketing/graphic design), 2018 - current
+* 5 year industry experience (graphic design), 2016-2018
+
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
