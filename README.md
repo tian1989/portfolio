@@ -10,23 +10,28 @@
 * 5 year industry experience (graphic design), 2016-2018
 
 
-# [Portfolio 1: Quench labels](https://postimg.cc/PCW4TcLv)
+# [Portfolio 1: Gaming Fish](https://postimg.cc/2qz53HwK)
 
 
-Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargoh</a>
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a>
+
+This project was a concept based on a fish with a sleek cool feel to it whilst gaming.
+* **Illustrator programme used:** vector, layers, print ready
+* **Date:** June 2021
+* **Quanity:** 1
+
+
+
+
+# [Portfolio 2: Quench labels](https://postimg.cc/PCW4TcLv)
+
+
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargo</a>
 
 This project contains product labels made for industry standards current in circulation.
 * **Illustrator programme used:** vector, layers, print ready
 * **Date:** January 2019
 * **Quanity:** 1000 
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
 
