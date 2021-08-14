@@ -23,10 +23,10 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 # Portfolio 1: Monster Dog
 
 
-Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> using Illustrator <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> using Illustrator: <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
 
-This project was a concept based on a fish with a sleek cool feel to it whilst gaming.
-* **Illustrator programme used:** vector, layers, print ready
+This project was a concept based on a mutanted hot dog with a zombie theme.
+* **Methods:** vector, layers, print ready
 * **Date:** June 2021
 * **Quanity:** 1
 
@@ -34,10 +34,10 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 # [Portfolio 1: Gaming Fish](https://postimg.cc/2qz53HwK)
 
 
-Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a>
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for: <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a>
 
 This project was a concept based on a fish with a sleek cool feel to it whilst gaming.
-* **Illustrator programme used:** vector, layers, print ready
+* **Methods:** vector, layers, print ready
 * **Date:** June 2021
 * **Quanity:** 1
 
@@ -48,7 +48,7 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargo</a>
 
 This project contains product labels made for industry standards current in circulation.
-* **Illustrator programme used:** vector, layers, print ready
+* **Methods:** vector, layers, print ready
 * **Date:** January 2019
 * **Quanity:** 1000 
 
