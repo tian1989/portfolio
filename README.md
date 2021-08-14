@@ -9,10 +9,10 @@
 * freelance experience (marketing/graphic design), 2018 - current
 * 5 year industry experience (graphic design), 2016-2018
 
-# [Proposal: Working Agreement ](https://postimg.cc/gallery/FR4K8Fx)
+# [Proposal: Working Agreement ]
 
 
-Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> the <a href="https://twitter.com/TheFishyNorris">Working Agreement</a>
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> the <a href="https://postimg.cc/gallery/FR4K8Fx">Working Agreement</a>
 
 **Do you have an idea, drawing or a digital concept that needs developing?**
 
