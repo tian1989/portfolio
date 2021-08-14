@@ -13,7 +13,7 @@
 # [Portfolio 1: Quench labels](https://postimg.cc/PCW4TcLv)
 
 
-design by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargoh</a>
 
 This project contains product labels made for industry standards current in circulation.
 * **Illustrator programme used:** vector, layers, print ready
