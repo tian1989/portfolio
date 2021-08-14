@@ -1,7 +1,7 @@
 # Tian Elijah
 **Graphic designer | Illustrator**
 
-# Proposal: Working Agreement 
+# Working Agreement 
 
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> The <a href="https://postimg.cc/gallery/FR4K8Fx">Working Agreement</a>
