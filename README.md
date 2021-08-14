@@ -1,6 +1,17 @@
 # Tian Elijah
 **Graphic designer | Illustrator**
 
+# **About me**
+
+ **Education**
+* Bachelors of graphic design (Nottingham), 2010-2013  
+* National diploma of art and design (Nottingham), 2007-2010  
+
+ **Experience**
+* freelance experience (marketing/graphic design), 2020 - current
+* 5 year industry experience (graphic design), 2015-2020
+
+
 # Working Agreement 
 
 
@@ -74,15 +85,6 @@ This project contains product labels made for industry standards current in circ
 * **Quanity:** 1000 
 
 
-# **About me**
-
- **Education**
-* Bachelors of graphic design (Nottingham), 2010-2013  
-* National diploma of art and design (Nottingham), 2007-2010  
-
- **Experience**
-* freelance experience (marketing/graphic design), 2020 - current
-* 5 year industry experience (graphic design), 2015-2020
 
 
 
