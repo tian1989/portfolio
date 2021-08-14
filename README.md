@@ -15,10 +15,10 @@
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project contains product labels made for industry standards current in circulation.
+* **Illustrator programme used:** vector, layers, print ready
+* **Date:** January 2019
+* **Quanity:** 1000 
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
