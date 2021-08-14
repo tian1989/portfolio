@@ -10,15 +10,6 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.**
 
 
- **Education**
-* Bachelors of graphic design (Nottingham), 2010-2013  
-* National diploma of art and design (Nottingham), 2007-2010  
-
- **Experience**
-* freelance experience (marketing/graphic design), 2020 - current
-* 5 year industry experience (graphic design), 2015-2020
-
-
 
 # **See my lastest work below** 
 
@@ -81,6 +72,17 @@ This project contains product labels made for industry standards current in circ
 * **Methods:** vector, layers, print ready
 * **Date:** January 2019
 * **Quanity:** 1000 
+
+
+# **About me**
+
+ **Education**
+* Bachelors of graphic design (Nottingham), 2010-2013  
+* National diploma of art and design (Nottingham), 2007-2010  
+
+ **Experience**
+* freelance experience (marketing/graphic design), 2020 - current
+* 5 year industry experience (graphic design), 2015-2020
 
 
 
