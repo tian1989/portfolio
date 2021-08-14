@@ -20,6 +20,17 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
 
 
+# Portfolio 1: Coil Candy
+
+
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> For: <a href="https://postimg.cc/gallery/tYtYzwP">Supreme Vapes</a>
+
+This project was a 10 label design based on the coil aspect of the vape using a range of colours.
+* **Methods:** vector, layers, print ready
+* **Date:** August 2021
+* **Quanity:** 10
+
+
 # Portfolio 1: Monster Dog
 
 
