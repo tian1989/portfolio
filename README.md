@@ -23,7 +23,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 # Portfolio 1: Monster Dog
 
 
-Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> using Illustrator: <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> using Illustrator: <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
 
 This project was a concept based on a mutanted hot dog with a zombie theme.
 * **Methods:** vector, layers, print ready
