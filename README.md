@@ -1,5 +1,5 @@
 # Tian Elijah
-* graphic designer | illustrator*
+* Graphic designer | illustrator*
 
 # Education
 * Bachelors of graphic design (nottingham), 2010-2013  
@@ -8,6 +8,16 @@
 # Experience
 * freelance experience (marketing/graphic design), 2018 - current
 * 5 year industry experience (graphic design), 2016-2018
+
+# [Proposal: Working Agreement ](https://postimg.cc/2qz53HwK)
+
+
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a>
+
+Do you have an idea of a drawing or a digital concept that needs developing.
+* ** This working agreement allows the designer to clearly identify the client’s
+ proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.**
+
 
 
 # [Portfolio 1: Gaming Fish](https://postimg.cc/2qz53HwK)
@@ -19,8 +29,6 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 * **Illustrator programme used:** vector, layers, print ready
 * **Date:** June 2021
 * **Quanity:** 1
-
-
 
 
 # [Portfolio 2: Quench labels](https://postimg.cc/PCW4TcLv)
