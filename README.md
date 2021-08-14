@@ -1,12 +1,3 @@
-<style>
-body {
-  background-image: url('https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fmountains%2F&psig=AOvVaw2ZKUNQ8hisOz-MOensCRlI&ust=1629038210885000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCPibLesPICFQAAAAAdAAAAABAD');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-</style>
-
 # Tian Elijah
 **Graphic designer | Illustrator**
 
