@@ -10,11 +10,11 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
 
 
-# Education
+ **Education**
 * Bachelors of graphic design (Nottingham), 2010-2013  
 * National diploma of art and design (Nottingham), 2007-2010  
 
-# Experience
+ **Experience**
 * freelance experience (marketing/graphic design), 2020 - current
 * 5 year industry experience (graphic design), 2015-2020
 
