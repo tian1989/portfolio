@@ -12,7 +12,7 @@
 # [Proposal: Working Agreement ](https://postimg.cc/kRKWqckq)
 
 
-Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://twitter.com/TheFishyNorris">Working Agreement</a>
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> the <a href="https://twitter.com/TheFishyNorris">Working Agreement</a>
 
 **Do you have an idea, drawing or a digital concept that needs developing?**
 
