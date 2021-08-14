@@ -11,7 +11,7 @@
 
 
 # Portfolio 1: Quench labels
-![alt text] https://postimg.cc/PCW4TcLv
+https://postimg.cc/PCW4TcLv
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
