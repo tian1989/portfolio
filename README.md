@@ -24,7 +24,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 **Portfolio 1: Coil Candy**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-For: <a href="https://postimg.cc/gallery/tYtYzwP">Supreme Vapes</a>
+For <a href="https://postimg.cc/gallery/tYtYzwP">Supreme Vapes</a>
 
 
 This project was a 10 label design based on the coil aspect of the vape using a range of colours.
@@ -37,7 +37,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 **Portfolio 1: Monster Dog**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-using Illustrator: <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
+using Illustrator <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
 
 
 This project was a concept based on a mutanted hot dog with a zombie theme.
@@ -49,7 +49,7 @@ This project was a concept based on a mutanted hot dog with a zombie theme.
 
 **Portfolio 1: Gaming Fish**
 
-Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for: 
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for 
 <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a>
 <a href="https://postimg.cc/gallery/7yCq3Hk">
 
