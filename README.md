@@ -6,8 +6,8 @@
 * National diploma of art and design (Nottingham), 2007-2010  
 
 # Experience
-* freelance experience (marketing/graphic design), 2018 - current
-* 5 year industry experience (graphic design), 2016-2018
+* freelance experience (marketing/graphic design), 2020 - current
+* 5 year industry experience (graphic design), 2015-2020
 
 # Proposal: Working Agreement 
 
