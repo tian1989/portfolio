@@ -20,7 +20,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
 
 
-# [Portfolio 1: Monster Dog](https://postimg.cc/2qz53HwK)
+# Portfolio 1: Monster Dog
 
 
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> using Illustrator <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
