@@ -9,7 +9,7 @@
 * freelance experience (marketing/graphic design), 2018 - current
 * 5 year industry experience (graphic design), 2016-2018
 
-# [Proposal: Working Agreement ](https://postimg.cc/2qz53HwK)
+# [Proposal: Working Agreement ](https://postimg.cc/kRKWqckq)
 
 
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a>
