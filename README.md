@@ -20,6 +20,16 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
 
 
+# [Portfolio 1: Monster Dog](https://postimg.cc/2qz53HwK)
+
+
+Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> using Illustrator <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
+
+This project was a concept based on a fish with a sleek cool feel to it whilst gaming.
+* **Illustrator programme used:** vector, layers, print ready
+* **Date:** June 2021
+* **Quanity:** 1
+
 
 # [Portfolio 1: Gaming Fish](https://postimg.cc/2qz53HwK)
 
