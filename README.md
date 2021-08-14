@@ -2,8 +2,8 @@
 * Graphic designer | illustrator*
 
 # Education
-* Bachelors of graphic design (nottingham), 2010-2013  
-* National diploma of art and design (nottingham), 2007-2010  
+* Bachelors of graphic design (Nottingham), 2010-2013  
+* National diploma of art and design (Nottingham), 2007-2010  
 
 # Experience
 * freelance experience (marketing/graphic design), 2018 - current
@@ -15,7 +15,7 @@
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://twitter.com/TheFishyNorris">Working Agreement</a>
 
 Do you have an idea, drawing or a digital concept that needs developing.
-*This working agreement allows the designer to clearly identify the client’s
+* This working agreement allows the designer to clearly identify the client’s
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
 
 
