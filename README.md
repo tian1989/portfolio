@@ -1,5 +1,5 @@
 # Tian Elijah
-* Graphic designer | illustrator*
+* **Graphic designer | **Illustrator
 
 # Education
 * Bachelors of graphic design (Nottingham), 2010-2013  
