@@ -19,6 +19,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  This working agreement allows the designer to clearly identify the client’s
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
 
+# **See my Lastest work below** 
 
 # Portfolio 1: Coil Candy
 
