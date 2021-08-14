@@ -16,7 +16,7 @@ Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> f
 
 Do you have an idea, drawing or a digital concept that needs developing.
  * **This working agreement allows the designer to clearly identify the client’s
- proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.
+ proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.**
 
 
 
