@@ -39,7 +39,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 * **Quanity:** 10
 
 
-**Portfolio 1: Coil Candy**https://postimg.cc/gallery/tYtYzwP
+**Portfolio 1: Coil Candy**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://supremevapesbristol.com/">Supreme Vapes</a> - <a href="https://postimg.cc/gallery/tYtYzwP">Label Design</a>
