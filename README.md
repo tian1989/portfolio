@@ -18,7 +18,7 @@
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah:</a> The <a href="https://postimg.cc/gallery/FR4K8Fx">Working Agreement</a>
  
- **Feel free to click the working agreement link if you have a idea that you want designing.**
+ **Feel free to click 'The Working Agreement' link if you have an idea that you want designing.**
 
 * **1 Proposal fee £40**
 * **1 Round of Revision £20**
