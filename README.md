@@ -25,7 +25,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah:</
 * **Multiple Item fee £10**
 
 
-### **tee_an@hotmail.co.uk | 07547823251**
+### Ideas can be sent to - **tee_an@hotmail.co.uk | 07547823251**
 
 ---
 
