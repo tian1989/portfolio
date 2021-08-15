@@ -30,7 +30,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 **Portfolio 1: A1 Shop Display Poster**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-For. <a href="https://www.cloudsvapestore.co.uk/">clouds vape store</a>-<a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
+for <a href="https://www.cloudsvapestore.co.uk/">clouds vape store</a> - <a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
 
 
 This project was a 10 label design based on the coil aspect of the vape using a range of colours.
@@ -39,10 +39,11 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 * **Quanity:** 10
 
 
-**Portfolio 1: Coil Candy**
+**Portfolio 1: Coil Candy**https://postimg.cc/gallery/tYtYzwP
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-For. <a href="https://postimg.cc/gallery/tYtYzwP">Supreme Vapes</a>
+for <a href="https://supremevapesbristol.com/">Supreme Vapes</a> - <a href="https://postimg.cc/gallery/tYtYzwP">Label Design</a>
+
 
 
 This project was a 10 label design based on the coil aspect of the vape using a range of colours.
@@ -54,7 +55,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 **Portfolio 2: Logo**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-For. <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">dawney robinson</a>
+for <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">dawney robinson</a>
 
 
 Created a logo with a light colour pallet and sophisticated fonts.
