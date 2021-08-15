@@ -18,12 +18,14 @@
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah:</a> The <a href="https://postimg.cc/gallery/FR4K8Fx">Working Agreement</a>
  
- **This working agreement allows the designer to clearly identify the client’s
- proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.**
+ **Feel free to click the working agreement link if you have a idea that you want designing.**
 
 * **1 Proposal fee £40**
 * **1 Round of Revision £20**
 * **Multiple Item fee £10**
+
+
+## **tee_an@hotmail.co.uk | 07547823251**
 
 ---
 
