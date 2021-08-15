@@ -24,16 +24,6 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 
 # **See my lastest work below** 
 
-**Portfolio 1: Clouds Vape Store**
-
-Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-For. <a href="https://postimg.cc/gallery/tYtYzwP">Supreme Vapes</a>
-
-
-This project was a 10 label design based on the coil aspect of the vape using a range of colours.
-* **Methods:** vector, layers, print ready
-* **Date:** August 2021
-* **Quanity:** 10
 
 **Portfolio 1: Coil Candy**
 
@@ -47,8 +37,19 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 * **Quanity:** 10
 
 
+**Portfolio 1: Logo**
 
-**Portfolio 1: Monster Dog**
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
+For. <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">dawney robinson</a>
+
+
+Created a logo with a light colour pallet and sophisticated fonts.
+* **Methods:** vector, layers, print ready
+* **Date:** June 2021
+* **Quanity:** 1
+
+
+**Portfolio 2: Monster Dog**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 using Illustrator. <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
@@ -61,7 +62,7 @@ This project was a concept based on a mutanted hot dog with a zombie theme.
 
 
 
-**Portfolio 1: Gaming Fish**
+**Portfolio 3: Gaming Fish**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish.</a> view
@@ -74,7 +75,7 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 * **Quanity:** 1
 
 
-**Portfolio 2: Quench labels**
+**Portfolio 4: Quench labels**
 
 
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargo</a>
