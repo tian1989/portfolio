@@ -1,6 +1,7 @@
 # Tian Elijah
 **Graphic designer | Illustrator**
-
+![Photo by <a href="https://unsplash.com/@kevnbhagat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Bhagat</a> on <a href="https://unsplash.com/s/photos/workspace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
+  
 # **About me**
 
  **Education**
@@ -14,7 +15,7 @@
 # Working Agreement 
 
 
-Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> The <a href="https://postimg.cc/gallery/FR4K8Fx">Working Agreement</a>
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah:</a> The <a href="https://postimg.cc/gallery/FR4K8Fx">Working Agreement</a>
  
  **This working agreement allows the designer to clearly identify the client’s
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.**
