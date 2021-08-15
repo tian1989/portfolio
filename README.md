@@ -30,7 +30,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 **Portfolio 1: A1 Shop Display Poster**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-For. <a href="https://www.cloudsvapestore.co.uk/">clouds vape store</a><a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
+For. <a href="https://www.cloudsvapestore.co.uk/">clouds vape store</a><a href="https://postimg.cc/5Y7Mfx3f"> - The Poster</a>
 
 
 This project was a 10 label design based on the coil aspect of the vape using a range of colours.
