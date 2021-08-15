@@ -8,7 +8,7 @@
 * National diploma of art and design (Nottingham), 2007-2010  
 
  **Experience**
-* freelance experience (marketing/graphic design), 2020 - current
+* Freelance experience (marketing/graphic design), 2020 - current
 * 5 year industry experience (graphic design), 2015-2020
 
 
@@ -39,7 +39,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 * **Quanity:** 10
 
 
-**Portfolio 1: Logo**
+**Portfolio 2: Logo**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 For. <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">dawney robinson</a>
@@ -51,7 +51,7 @@ Created a logo with a light colour pallet and sophisticated fonts.
 * **Quanity:** 1
 
 
-**Portfolio 2: Monster Dog**
+**Portfolio 3: Monster Dog**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 using Illustrator. <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
@@ -64,7 +64,7 @@ This project was a concept based on a mutanted hot dog with a zombie theme.
 
 
 
-**Portfolio 3: Gaming Fish**
+**Portfolio 4: Gaming Fish**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish.</a> view
@@ -77,7 +77,7 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 * **Quanity:** 1
 
 
-**Portfolio 4: Quench labels**
+**Portfolio 5: Quench labels**
 
 
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargo</a>
