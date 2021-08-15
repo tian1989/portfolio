@@ -20,10 +20,13 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
  **This working agreement allows the designer to clearly identify the client’s
  proposal to complete the final design, and gives you the opportunity to clarify and understand the steps of your design.**
 
+1 Proposal fee + 1 Round of Revision fee = £60
+2 Proposal fee + 2 Round of Revision fee = £120
+1 Proposal fee + 1 Round of Revision fee + Multiple Item fee = £70
+
 
 
 # **See my lastest work below** 
-
 
 **Portfolio 1: Coil Candy**
 
