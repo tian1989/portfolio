@@ -39,7 +39,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 * **Quanity:** 10
 
 
-**Portfolio 1: Coil Candy**
+## **Portfolio 1: Coil Candy**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://supremevapesbristol.com/">Supreme Vapes</a> - <a href="https://postimg.cc/gallery/tYtYzwP">Label Design</a>
@@ -52,7 +52,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 * **Quanity:** 10
 
 
-**Portfolio 2: Logo**
+## **Portfolio 2: Logo**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">dawney robinson</a>
@@ -64,7 +64,7 @@ Created a logo with a light colour pallet and sophisticated fonts.
 * **Quanity:** 1
 
 
-**Portfolio 3: Monster Dog**
+## **Portfolio 3: Monster Dog**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 using Illustrator. <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
@@ -77,7 +77,7 @@ This project was a concept based on a mutanted hot dog with a zombie theme.
 
 
 
-**Portfolio 4: Gaming Fish**
+## **Portfolio 4: Gaming Fish**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a> - <a href="https://postimg.cc/gallery/7yCq3Hk">The logos</a>
@@ -89,7 +89,7 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 * **Quanity:** 1
 
 
-**Portfolio 5: Quench labels**
+## **Portfolio 5: Quench labels**
 
 
 Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> for <a href="https://www.vapecargo.net/">Vape Cargo</a>
