@@ -24,11 +24,6 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 * **1 Round of Revision £20**
 * **Multiple Item fee**
 
-* **1 Proposal fee + 1 Round of Revision fee = £60**
-* **2 Proposal fee + 2 Round of Revision fee = £120**
-* **1 Proposal fee + 1 Round of Revision fee + Multiple Item fee = £70**
-
-
 
 # **See my lastest work below** 
 
