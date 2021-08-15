@@ -28,7 +28,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah:</
 ---
 
 # **See my lastest work below** 
-
+___
 
 ## **Portfolio 1: A1 Shop Display Poster**
 
