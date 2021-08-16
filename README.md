@@ -16,8 +16,8 @@
 # Working Agreement 
 
 
-Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah:</a> The <a href="[url=https://ibb.co/PFtVfmL][img]https://i.ibb.co/fqQTP1g/graphic-design-proposal-page-001.jpg[/img][/url]
-[url=https://ibb.co/ZNzB7cx][img]https://i.ibb.co/7btnLrK/graphic-design-proposal-page-002.jpg[/img][/url]">Working Agreement</a>
+Designed by <a href="https://i.postimg.cc/15QSg2V8/graphic-design-proposal-page-001.jpg
+https://i.postimg.cc/NfkcRDRp/graphic-design-proposal-page-002.jpg">Working Agreement</a>
  
  **Feel free to click 'The Working Agreement' link if you have an idea that you want designing.**
 
