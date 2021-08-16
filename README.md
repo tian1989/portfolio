@@ -38,10 +38,10 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 for <a href="https://www.cloudsvapestore.co.uk/">clouds vape store</a> - <a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
 
 
-This project was a 10 label design based on the coil aspect of the vape using a range of colours.
+This project was a window display advertisment for dispoable pods.
 * **Methods:** vector, layers, print ready
 * **Date:** August 2021
-* **Quanity:** 10
+* **Quanity:** 1
 
 
 ### **Portfolio 2: Coil Candy**
@@ -66,7 +66,7 @@ for <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">dawney robinson</
 Created a logo with a light colour pallet and sophisticated fonts.
 * **Methods:** vector, layers, print ready
 * **Date:** June 2021
-* **Quanity:** 1
+* **Quanity:** 2
 
 
 ### **Portfolio 5: Gaming Fish**
@@ -90,7 +90,7 @@ using Illustrator. <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
 This project was a concept based on a mutated hotdog with a zombie theme.
 * **Methods:** vector, layers, print ready
 * **Date:** May 2021
-* **Quanity:** 1
+* **Quanity:** 4
 
 
 ### **Portfolio 6: Quench labels**
@@ -101,7 +101,7 @@ Designed by <a href="www.linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> f
 This project contains product labels made for industry standards current in circulation.
 * **Methods:** vector, layers, print ready
 * **Date:** January 2019
-* **Quanity:** 1000 
+* **Quanity:** 8 
 
 
 
