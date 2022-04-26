@@ -39,7 +39,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 for <a href="https://kwikvape.co.uk/products/kv-premium-liquids-50ml-choice-of-flavours">Kwik Vape</a> - <a href="https://postimg.cc/gallery/97fy379">Label Design</a>
 
 
- This project was a 20 label design using the word.
+ This project was a 20 label design using Kwik Vape as the logo.
 * **Methods:** vector, layers, print ready
 * **Date:** January 2022
 * **Quanity:** 1
