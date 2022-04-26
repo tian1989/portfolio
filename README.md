@@ -33,10 +33,10 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 ## **See my lastest work below** 
 ___
 
-### **Portfolio 1: Sleezy B Bullyz**
+### **Portfolio 1: 100ML/50ML Product labels**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for <a href="https://www.cloudsvapestore.co.uk/">Clouds Vape Store</a> - <a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
+for <a href="https://www.cloudsvapestore.co.uk/">Clouds Vape Store</a> - <a href="https://postimg.cc/gallery/97fy379">The Poster</a>
 
 
  A logo for a dog breeding company, design based on a real dog.
@@ -45,7 +45,7 @@ for <a href="https://www.cloudsvapestore.co.uk/">Clouds Vape Store</a> - <a href
 * **Quanity:** 1
 
 
-### **Portfolio 2: 100ML/50ML Product labels**
+### **Portfolio 2: Sleezy B Bullyz**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://www.cloudsvapestore.co.uk/">Clouds Vape Store</a> - <a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
