@@ -42,7 +42,7 @@ for <a href="https://kwikvape.co.uk/products/kv-premium-liquids-50ml-choice-of-f
  This project was a 20 label design using Kwik Vape as the logo.
 * **Methods:** vector, layers, print ready
 * **Date:** January 2022
-* **Quanity:** 1
+* **Quanity:** 20
 
 
 ### **Portfolio 2: Sleezy B Bullyz**
@@ -54,7 +54,7 @@ for <a href="">Tawanda</a> - <a href="https://postimg.cc/gallery/6KT3NH0">The De
 This project was a window display advertisment for dispoable pods.
 * **Methods:** vector, layers, print ready
 * **Date:** March 2022
-* **Quanity:** 1
+* **Quanity:** 2
 
 ### **Portfolio 3: A1 Shop Display Poster**
 
