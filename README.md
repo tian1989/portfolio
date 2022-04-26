@@ -33,7 +33,7 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 ## **See my lastest work below** 
 ___
 
-### **Portfolio 1: 100ML/50ML Product labels**
+### **Portfolio 1: Kwik Vape Labels**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://kwikvape.co.uk/products/kv-premium-liquids-50ml-choice-of-flavours">Kwik Vape</a> - <a href="https://postimg.cc/gallery/97fy379">Label Design</a>
