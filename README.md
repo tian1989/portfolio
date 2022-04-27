@@ -41,7 +41,7 @@ for <a href="https://kwikvape.co.uk/products/kv-premium-liquids-50ml-choice-of-f
 
  This project was a 20 label design using Kwik Vape as the logo.
 * **Methods:** vector, layers, print ready
-* **Date:** January 2022
+* **Date:** March 2022
 * **Quanity:** 20
 
 
@@ -51,9 +51,9 @@ Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a
 for <a href="">Tawanda</a> - <a href="https://postimg.cc/gallery/6KT3NH0">The Design</a>
 
 
-This project was a window display advertisment for dispoable pods.
+A design for a dog breeding business needed for advertising.
 * **Methods:** vector, layers, print ready
-* **Date:** March 2022
+* **Date:** January 2022
 * **Quanity:** 2
 
 ### **Portfolio 3: A1 Shop Display Poster**
