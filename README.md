@@ -14,9 +14,9 @@
 * 5 year industry experience (graphic design), 2015-2020
 
 # Let's work on your project
-**Feel free to click 'The Working Agreement link' above if you have an idea that you want designing.**
+**Feel free to click the link below to see the terms and conditions on how to get your logo/flyer/design/poster/branding started.**
 
-</a> To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in application</a>
+</a> To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in your application</a>
 
 
 * **1 Proposal fee £40**
