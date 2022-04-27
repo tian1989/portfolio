@@ -19,7 +19,7 @@
 </a> To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in your application</a>
 
 
-* **1 Proposal fee £40**
+* **1 Project £40**
 * **1 Round of Revision £20**
 * **Multiple Item fee £10**
 
