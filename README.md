@@ -13,7 +13,7 @@
 * Freelance experience (marketing/graphic design), 2020 - current
 * 5 year industry experience (graphic design), 2015-2020
 
-# Working Agreement 
+# Let's work on your project
 
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> The
@@ -42,7 +42,7 @@ for <a href="https://nearer.com/listing/good-vibez-cafe-sutton-in-ashfield/">Goo
  This project was a 20 label design using Kwik Vape as the logo.
 * **Methods:** vector, layers, print ready
 * **Date:** March 2022
-* **Quanity:** 20
+* **Quanity:** 1
 
 
 ### **Portfolio 2: Kwik Vape Labels**
