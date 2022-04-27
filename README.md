@@ -41,7 +41,7 @@ for <a href="https://nearer.com/listing/good-vibez-cafe-sutton-in-ashfield/">Goo
 
  This project was a 20 label design using Kwik Vape as the logo.
 * **Methods:** vector, layers, print ready
-* **Date:** March 2022
+* **Date:** April 2022
 * **Quanity:** 1
 
 
