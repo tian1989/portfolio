@@ -16,7 +16,7 @@
 # Let's work on your project
 
 
-Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a>The Project form<a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in application</a>
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> The Project form <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in application</a>
  
  **Feel free to click 'The Working Agreement link' above if you have an idea that you want designing.**
 
