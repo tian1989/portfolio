@@ -14,11 +14,10 @@
 * 5 year industry experience (graphic design), 2015-2020
 
 # Let's work on your project
-
+**Feel free to click 'The Working Agreement link' above if you have an idea that you want designing.**
 
 </a> To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in application</a>
- 
- **Feel free to click 'The Working Agreement link' above if you have an idea that you want designing.**
+
 
 * **1 Proposal fee £40**
 * **1 Round of Revision £20**
