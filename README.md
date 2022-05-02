@@ -58,7 +58,7 @@ for <a href="https://kwikvape.co.uk/products/kv-premium-liquids-50ml-choice-of-f
 ### **Portfolio 3: Sleezy B Bullyz**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for <a href="https://www.instagram.com/sleezybullyz/">Tawanda</a> - <a href="https://postimg.cc/gallery/6KT3NH0">The Design</a>
+for <a href="https://www.instagram.com/sleezybullyz">Tawanda</a> - <a href="https://postimg.cc/gallery/6KT3NH0">The Design</a>
 
 
 A design for a dog breeding business needed for advertising.
