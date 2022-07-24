@@ -22,7 +22,7 @@ The price is accumulated through this method for example 4 x 1/4 = full day
 * **Multiple request: a one time payment of £25 to establish the criteria of the job is required**
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
 
-### Ideas can be sent to - **tee_an@hotmail.co.uk | 07547823251**
+### Ideas can be sent to via eamil or whatsapp - **tee_an@hotmail.co.uk | +447547823251**
 
 ---
 ## **See my lastest work below** 
