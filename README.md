@@ -23,7 +23,7 @@ To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use th
 * **A Criteria fee to establish the parameters of each job is required **
 * **1 job request: a one time payment of £12.50 to establish the criteria of the job is required **
 * **2+ job request: a one time payment of £25 to establish the criteria of the job is required  **
-* **Multiple Item fee £10**
+* **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each **
 
 ### Ideas can be sent to - **tee_an@hotmail.co.uk | 07547823251**
 
