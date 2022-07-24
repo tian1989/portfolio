@@ -14,11 +14,8 @@
 * 5 year industry experience (graphic design), 2015-2020
 
 # Let's work together
-**Feel free to click the link below to see the terms and conditions on how to get your logo/flyer/design/poster/branding..etc started.**
 
-To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in your application</a>
-
-**My day rate is £60. I will determine the time based on the volume of work amounting to the final cost of business. The price is accumulated through this method for example 4 x 1/4 = full day**
+# **My day rate is £60. I will determine the time based on the volume of work amounting to the final cost of business. The price is accumulated through this method for example 4 x 1/4 = full day**
 
 
 * **A Criteria fee to establish the parameters of each job is required**
