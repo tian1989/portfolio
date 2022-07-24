@@ -16,8 +16,8 @@
 # Let's work together
 
 ## My day rate is £60
-### I will determine the time based on the volume of work amounting to the final cost of business. 
-# The price is accumulated through this method for example 4 x 1/4 = full day**
+### I will determine the time based on the volume of work amounting to the final cost of business, The price is accumulated through this method 
+### for example 4 x 1/4 = full day
 
 
 * **A Criteria fee to establish the parameters of each job is required**
