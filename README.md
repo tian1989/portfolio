@@ -107,7 +107,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 ### **Portfolio 7: Logo**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for Dawney Robinson <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">D.R Aesthetics</a>
+for Dawney Robinson -<a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">D.R Aesthetics</a>
 
 
 Created a logo with a light colour pallet and sophisticated fonts.
