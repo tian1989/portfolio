@@ -18,10 +18,9 @@
 
 To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in your application</a>
 
-Each quarter has a base price to begin a job, depending on the volume of work will determine how many quarters are accumulated amounting to the final cost of business the price is accumulated through this method for example 4 x 1/4 = full day
+My day rate is £60.i will determine the time based on the volume of work amounting to the final cost of business. The price is accumulated through this method for example 4 x 1/4 = full day
 
 
-* **My day rate is £60**
 * **A Criteria fee to establish the parameters of each job is required**
 * **1 job request: a one time payment of £12.50 to establish the criteria of the job is required**
 * **2+ job request: a one time payment of £25 to establish the criteria of the job is required**
