@@ -37,7 +37,7 @@ ___
 ### **Portfolio 1: ChocoBae**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for ChocoBae</a> - <a href="https://postimg.cc/gallery/GhqxmYN">Menu Design</a>
+for ChocoBae - <a href="https://postimg.cc/gallery/GhqxmYN">Menu Design</a>
 
 
  Menu design for a new dessert company "ChocoBae"
