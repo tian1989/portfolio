@@ -107,7 +107,7 @@ This project was a 10 label design based on the coil aspect of the vape using a 
 ### **Portfolio 7: Logo**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for Dawney Robinson -<a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">D.R Aesthetics</a>
+for Dawney Robinson - <a href="https://i.postimg.cc/qvMrNyVW/dr-logo-design.jpg">D.R Aesthetics</a>
 
 
 Created a logo with a light colour pallet and sophisticated fonts.
@@ -131,7 +131,7 @@ This project was a concept based on a fish with a sleek cool feel to it whilst g
 ### **Portfolio 9: Monster Dog**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-using Illustrator. <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
+using Illustrator <a href="https://postimg.cc/gallery/yxnMcKf">Monster Dog</a>
 
 
 This project was a concept based on a mutated hotdog with a zombie theme.
