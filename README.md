@@ -32,15 +32,28 @@ To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use th
 ### https://www.instagram.com/traphicway/
 ___
 
+
+### **Portfolio 1: ChocoBae**
+
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
+for <a href=>ChocoBae</a> - <a href="https://postimg.cc/gallery/GhqxmYN">Menu Design</a>
+
+
+ Menu design for a new dessert company "ChocoBae"
+* **Methods:** Menu, vector, layers, print ready, Clipping Paths
+* **Date:** July 2022
+* **Quanity:** 1
+
+
 ### **Portfolio 1: Good Vibez Cafe**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
 for <a href="https://nearer.com/listing/good-vibez-cafe-sutton-in-ashfield/">Good Vibez Cafe</a> - <a href="https://postimg.cc/gallery/FhT9pDZ">Menu Design</a>
 
 
- This project was a 20 label design using Kwik Vape as the logo.
-* **Methods:** vector, layers, print ready
-* **Date:** April 2022
+ Menu design for a new caribbean cafe "Good Vibez".
+* **Methods:** Menu, vector layout, layers, print ready
+* **Date:** June 2022
 * **Quanity:** 1
 
 
