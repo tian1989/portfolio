@@ -24,7 +24,6 @@
 ### Ideas can be sent to - **tee_an@hotmail.co.uk | 07547823251**
 
 ---
-
 ## **See my lastest work below** 
 ### https://www.instagram.com/traphicway/
 ___
