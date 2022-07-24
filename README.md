@@ -13,10 +13,12 @@
 * Freelance experience (marketing/graphic design), 2020 - current
 * 5 year industry experience (graphic design), 2015-2020
 
-# Let's work on your project
+# Let's work together
 **Feel free to click the link below to see the terms and conditions on how to get your logo/flyer/design/poster/branding..etc started.**
 
 To get your idea on the road <a href="https://postimg.cc/gallery/zH5d0v8">use this link to fill in your application</a>
+
+Each quarter has a base price to begin a job, depending on the volume of work will determine how many quarters are accumulated amounting to the final cost of business the price is accumulated through this method for example 4 x 1/4 = full day
 
 
 * **My day rate is £60**
