@@ -15,14 +15,14 @@
 
 # Let's work together
 ## My day rate is £60
-### My day rate is divided into 4 quarters to accommodate for the different volumes of job requests. 
+### My day rate is divided into 4 quarters to accommodate for the different volumes and styles of job requests. 
 The price is accumulated through this method for example 4 x 1/4 = full day
-* **A Criteria fee to establish the parameters of each job is required**
-* **1 job request: a one time payment of £12.50 to establish the criteria of the job is required**
-* **Multiple request: a one time payment of £25 to establish the criteria of the job is required**
+* **A criteria fee to establish the parameters of each job is required**
+* **1 job request: a one time payment of £12.50 to establish the criteria of your job is required**
+* **Multiple request: a one time payment of £25 to establish the criteria of the jobs is required**
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
 
-### Ideas can be sent to via eamil or whatsapp - **tee_an@hotmail.co.uk | +447547823251**
+### Ideas can be sent to via email or whatsapp - **tee_an@hotmail.co.uk | +447547823251**
 
 ---
 ## **See my lastest work below** 
