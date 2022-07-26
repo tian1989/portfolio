@@ -1,7 +1,7 @@
 # Traphicway
 **Tian Elijah | Graphic designer | Illustrator**	
 
-![alt text](https://images.hdqwalls.com/wallpapers/falling-moon-4k-bi.jpg)
+![alt text](https://cdn.elearningindustry.com/wp-content/uploads/2016/11/role-graphic-designer-elearning-team.jpg)
 
 # Lets shoot for the stars
 
