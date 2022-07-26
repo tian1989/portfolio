@@ -2,22 +2,20 @@
 **Graphic designer | Illustrator**
 
 ![alt text](https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80)
-  
-# **About me**
 
- **Education**
-* Bachelors of graphic design (Nottingham), 2010-2013  
-* National diploma of art and design (Nottingham), 2007-2010  
+
+# Let's work together
+
+# **About me** 
 
  **Experience**
 * Freelance experience (marketing/graphic design), 2020 - current
-* 5 year industry experience (graphic design), 2015-2020
+* 5 years industry designer (graphic design), 2015-2020
 
-# Let's work together
 ## My day rate is £60
-### My day rate is divided into 4 quarters to accommodate for the different volumes and styles of job requests. 
-The price is accumulated through this method for example 4 x 1/4 = full day
-* **A criteria fee to establish the parameters of each job is required**
+### My day rate is divided into 4 quarters accommodating for the different volumes and styles of job requests. 
+The price is accumulated through this method for example 4 x 1/4 = full day £60
+* **A criteria fee to establish the parameters of your job(s) is required this prevents delays and costs in revisions**
 * **1 job request: a one time payment of £12.50 to establish the criteria of your job is required**
 * **Multiple request: a one time payment of £25 to establish the criteria of the jobs is required**
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
