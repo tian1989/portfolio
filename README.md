@@ -3,7 +3,7 @@
 
 ![alt text](https://cdn.elearningindustry.com/wp-content/uploads/2016/11/role-graphic-designer-elearning-team.jpg)
 
-# Lets shoot for the stars
+# Lets Work Together
 
 ### **About me** 
 * Over 50 unique product labels produced in the vape industry
