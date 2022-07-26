@@ -76,7 +76,7 @@ A design for a dog breeding business needed for advertising.
 ### **Portfolio 5: A1 Shop Display Poster**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for <a href="https://www.cloudsvapestore.co.uk/">Clouds Vape Store</a> - <a href="https://postimg.cc/5Y7Mfx3f">The Poster</a>
+for <a href="https://www.cloudsvapestore.co.uk/">Clouds Vape Store</a> - <a href="https://postimg.cc/5Y7Mfx3f">Poster Design</a>
 
 
 This project was a window display advertisment for dispoable pods.
@@ -113,7 +113,7 @@ Created a logo with a light colour pallet and sophisticated fonts.
 ### **Portfolio 8: Gaming Fish**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a> - <a href="https://postimg.cc/gallery/7yCq3Hk">The logos</a>
+for <a href="https://twitter.com/TheFishyNorris">Gaming with the fish</a> - <a href="https://postimg.cc/gallery/7yCq3Hk">Logo Design</a>
 
  
 This project was a concept based on a fish with a sleek cool feel to it whilst gaming.
