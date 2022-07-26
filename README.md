@@ -3,7 +3,7 @@
 
 ![alt text](https://images.hdqwalls.com/wallpapers/falling-moon-4k-bi.jpg)
 
-# "If you shoot for the stars, you might hit the moon on the way up"
+# Lets shoot for the stars
 
 ### **About me** 
 * Over 50 unique product labels produced in the vape industry
