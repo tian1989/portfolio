@@ -15,9 +15,9 @@
 ### Day rate is divided into 4 quarters accommodating for the different volumes and styles of jobs. 
 ### The price is accumulated through this method for example:
 ### 4 x 1/4 = full day £60
-* **A criteria fee to establish the criteria of your job(s) is required, this prevents delays and costs in revisions**
+* **A one time fee to establish the criteria of your job(s) is required, this prevents delays and costs in revisions**
 * **A one time payment of £12.50 for 1 job**
-* **A one time payment of £25 for 1+ jobs**
+* **A one time payment of £25 for 1 or more jobs**
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
 
 ### Ideas can be sent via email or whatsapp - markedlife@gmail.com | +447547823251
