@@ -13,7 +13,7 @@
 * 5 years industry designer (graphic design), 2015-2020
 
 ## My day rate is £60
-### My day rate is divided into 4 quarters accommodating for the different volumes and styles of job requests. 
+### Day rate is divided into 4 quarters accommodating for the different volumes and styles of job requests. 
 The price is accumulated through this method for example 4 x 1/4 = full day £60
 * **A criteria fee to establish the parameters of your job(s) is required this prevents delays and costs in revisions**
 * **1 job request: a one time payment of £12.50 to establish the criteria of your job is required**
