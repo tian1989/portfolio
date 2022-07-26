@@ -1,5 +1,5 @@
 # Traphicway
-**Tian Elijah | Graphic designer | Illustrator**	
+**Graphic designer | Illustrator**	
 
 ![alt text](https://cdn.elearningindustry.com/wp-content/uploads/2016/11/role-graphic-designer-elearning-team.jpg)
 
