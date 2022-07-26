@@ -9,15 +9,16 @@
 # **About me** 
 
  **Experience**
-* Freelance experience (marketing/graphic design), 2020 - current
+* Over 50 unique labels produced in the vape industry
+* 2 years Freelance experience (marketing/graphic design), 2020 - current
 * 5 years industry designer (graphic design), 2015-2020
 
 ## My day rate is £60
 ### Day rate is divided into 4 quarters accommodating for the different volumes and styles of job requests. 
-The price is accumulated through this method for example 4 x 1/4 = full day £60
-* **A criteria fee to establish the parameters of your job(s) is required this prevents delays and costs in revisions**
-* **1 job request: a one time payment of £12.50 to establish the criteria of your job is required**
-* **Multiple request: a one time payment of £25 to establish the criteria of the jobs is required**
+### The price is accumulated through this method for example 4 x 1/4 = full day £60
+* **A criteria fee to establish the criteria of your job(s) is required this prevents delays and costs in revisions**
+* **A one time payment of £12.50 for 1 job**
+* **A one time payment of £25 for 2+ jobs**
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
 
 ### Ideas can be sent to via email or whatsapp - **markedlife@gmail.com | +447547823251**
