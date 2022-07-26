@@ -3,7 +3,7 @@
 
 ![alt text](https://images.hdqwalls.com/wallpapers/falling-moon-4k-bi.jpg)
 
-# "Shoot for the stars, you might hit the moon on the way up"
+# "If you shoot for the stars, you might hit the moon on the way up"
 
 ### **About me** 
 * Over 50 unique product labels produced in the vape industry
@@ -33,7 +33,7 @@ for ChocoBae - <a href="https://postimg.cc/gallery/GhqxmYN">Menu Design</a>
 
 
  Menu design for a new dessert company "ChocoBae"
-* **Methods:** Menu, vector, layers, print ready, Clipping Paths
+* **Methods:** Menu, vector layout, layers, print ready, Clipping Paths
 * **Date:** July 2022
 * **Quanity:** 1
 
