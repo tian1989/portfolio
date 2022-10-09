@@ -14,7 +14,7 @@
 ## My day rate is £60
 
 The following artwork is a fixed price
-1 x Social media post = £7 + 1 free revison
+* **1 x Social media post = £7 + 1 free revison**
 10 x Shelfedges = £10 + 1 free revison
 
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
