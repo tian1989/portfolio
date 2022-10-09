@@ -12,15 +12,14 @@
 * 5 years industry designer (graphic design), 2015-2020
 
 ## My day rate is £60
-### Day rate is divided into 4 quarters accommodating for the different volumes and styles of jobs. 
-### The price is accumulated through this method for example:
-### 4 x 1/4 = full day £60
-* **A one time fee to establish the criteria of your job(s) is required, this prevents delays and costs in revisions**
-* **A one time payment of £12.50 for 1 job**
-* **A one time payment of £25 for 1 or more jobs**
+
+The following artwork is a fixed price
+1 x Social media post = £7 + 1 free revison
+10 x Shelfedges = £10 + 1 free revison
+
 * **Requesting variations of a completed design varying in style, layout, colour & content will be charged at £10 each**
 
-### Ideas can be sent via email or whatsapp - markedlife@gmail.com | +447547823251
+### Ideas can be sent via email or whatsapp - digidesignsol.com | +447547823251
 ### See my lastest work below
 ### Instagram - https://www.instagram.com/traphicway/
 ---
