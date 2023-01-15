@@ -27,14 +27,13 @@ The following artwork is a fixed price
 ### **Portfolio 1: I GOT BEEF**
 
 Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
-for MKS Xpress - <a href="https://postimg.cc/gallery/GhqxmYN">Menu Design</a>
+for Buthcers Shop - Derby - <a href="https://postimg.cc/gallery/GhqxmYN">Logo Design</a>
 
 
- Menu design for a new dessert company "ChocoBae"
+ Menu design for a new dessert company "I Got Beef"
 * **Methods:** Menu, vector layout, layers, print ready, Clipping Paths
 * **Date:** July 2023
 * **Quanity:** 1
-
 
 
 
