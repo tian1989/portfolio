@@ -31,8 +31,8 @@ for Buthcers Shop - Derby - <a href="https://postimg.cc/gallery/GhqxmYN">Logo De
 
 
  Menu design for a new dessert company "I Got Beef"
-* **Methods:** Menu, vector layout, layers, print ready, Clipping Paths
-* **Date:** July 2023
+* **Methods:** Adobe Suite, vector build, Pathfinder, print ready
+* **Date:** Jan 2023
 * **Quanity:** 1
 
 
