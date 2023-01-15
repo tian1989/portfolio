@@ -24,6 +24,19 @@ The following artwork is a fixed price
 ### Instagram - https://www.instagram.com/traphicway/
 ---
 
+### **Portfolio 1: I GOT BEEF**
+
+Designed by <a href="http://linkedin.com/in/tian-elijah-26b65256">Tian Elijah</a> 
+for MKS Xpress - <a href="https://postimg.cc/gallery/GhqxmYN">Menu Design</a>
+
+
+ Menu design for a new dessert company "ChocoBae"
+* **Methods:** Menu, vector layout, layers, print ready, Clipping Paths
+* **Date:** July 2023
+* **Quanity:** 1
+
+
+
 
 ### **Portfolio 1: ChocoBae**
 
